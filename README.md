@@ -1,2 +1,2 @@
 # algorithm-training
-算法训练
+算法 训练
